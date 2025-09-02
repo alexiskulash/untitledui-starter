@@ -205,7 +205,7 @@ export const PricingPage = () => {
                     <div className="mt-20 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-12">
                         {/* Share team inboxes */}
                         <div className="text-center">
-                            <FeaturedIcon icon={MessageCircle} color="brand" theme="light" size="lg" className="mx-auto" />
+                            <FeaturedIcon icon={SearchLg} color="brand" theme="light" size="lg" className="mx-auto" />
                             <h3 className="mt-6 text-xl font-semibold text-primary">Share team inboxes</h3>
                             <p className="mt-2 text-tertiary">
                                 Whether you have a team of 2 or 200, our shared team inboxes keep everyone on the same page and in the loop.
