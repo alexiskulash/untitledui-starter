@@ -15,6 +15,7 @@ createRoot(document.getElementById("root")!).render(
                 <RouteProvider>
                     <Routes>
                         <Route path="/" element={<HomeScreen />} />
+                        <Route path="/pricing" element={<PricingPage />} />
                         <Route path="*" element={<NotFound />} />
                     </Routes>
                 </RouteProvider>
