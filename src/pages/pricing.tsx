@@ -219,7 +219,7 @@ export const PricingPage = () => {
 
                         {/* Deliver instant answers */}
                         <div className="text-center">
-                            <FeaturedIcon icon={Zap} color="brand" theme="light" size="lg" className="mx-auto" />
+                            <FeaturedIcon icon={LifeBuoy01} color="brand" theme="light" size="lg" className="mx-auto" />
                             <h3 className="mt-6 text-xl font-semibold text-primary">Deliver instant answers</h3>
                             <p className="mt-2 text-tertiary">
                                 An all-in-one customer service platform that helps you balance everything your customers need to be happy.
