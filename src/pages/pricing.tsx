@@ -15,10 +15,10 @@ export const PricingPage = () => {
                         </div>
                         
                         <nav className="hidden md:flex items-center space-x-8">
-                            <a href="#" className="text-tertiary hover:text-primary">Home</a>
+                            <a href="/" className="text-tertiary hover:text-primary">Home</a>
                             <a href="#" className="text-tertiary hover:text-primary">Products</a>
                             <a href="#" className="text-tertiary hover:text-primary">Resources</a>
-                            <a href="#" className="text-primary font-medium">Pricing</a>
+                            <a href="/pricing" className="text-primary font-medium">Pricing</a>
                         </nav>
                         
                         <div className="flex items-center gap-3">
