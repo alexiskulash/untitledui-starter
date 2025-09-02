@@ -1,6 +1,5 @@
-import { Play, ArrowRight, CheckCircle, Star } from "@untitledui/icons";
+import { Play, ArrowRight, CheckCircle, Stars02 } from "@untitledui/icons";
 import { Button } from "@/components/base/buttons/button";
-import { ButtonUtility } from "@/components/base/buttons/button-utility";
 import { UntitledLogo } from "@/components/foundations/logo/untitledui-logo";
 import { FeaturedIcon } from "@/components/foundations/featured-icon/featured-icon";
 import { BadgeWithImage } from "@/components/base/badges/badges";
