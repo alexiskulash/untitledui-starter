@@ -1,4 +1,4 @@
-import { CheckCircle, ArrowRight, MessageCircle, Users01, BarChart03, HelpCircle, Star01, Zap } from "@untitledui/icons";
+import { CheckCircle, ArrowRight, SearchLg, Users01, BarChart03, HelpCircle, Settings01, LifeBuoy01 } from "@untitledui/icons";
 import { Button } from "@/components/base/buttons/button";
 import { UntitledLogo } from "@/components/foundations/logo/untitledui-logo";
 import { FeaturedIcon } from "@/components/foundations/featured-icon/featured-icon";
