@@ -261,7 +261,7 @@ export const PricingPage = () => {
 
                         {/* Connect the tools you already use */}
                         <div className="text-center">
-                            <FeaturedIcon icon={Star01} color="brand" theme="light" size="lg" className="mx-auto" />
+                            <FeaturedIcon icon={Settings01} color="brand" theme="light" size="lg" className="mx-auto" />
                             <h3 className="mt-6 text-xl font-semibold text-primary">Connect the tools you already use</h3>
                             <p className="mt-2 text-tertiary">
                                 Explore 100+ integrations that make your day-to-day workflow more efficient and familiar. Plus, our extensive developer tools.
