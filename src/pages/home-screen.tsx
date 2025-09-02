@@ -176,7 +176,7 @@ export const HomeScreen = () => {
                         </div>
                         
                         <div className="order-1 lg:order-2">
-                            <FeaturedIcon icon={Star} color="brand" theme="light" size="lg" />
+                            <FeaturedIcon icon={Stars02} color="brand" theme="light" size="lg" />
                             <h3 className="mt-6 text-xl font-semibold text-primary">Deliver instant answers</h3>
                             <p className="mt-2 text-tertiary">
                                 An all-in-one customer service platform that helps you balance everything your customers need to be happy.
