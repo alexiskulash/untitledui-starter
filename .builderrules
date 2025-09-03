@@ -1,0 +1,12 @@
+This is a Vite app that uses the Untitled UI design system. The Untitled UI design system is described here:
+
+https://www.untitledui.com/react/application-ui
+https://www.untitledui.com/react/integrations/vite
+
+Do a web search to verify how it works.
+
+The following is also important:
+
+* Icons used must actually be available in the @untitledui/icons package. Ensure all icons actually exist in the package before using them.
+* Accessibility best practices should be followed. Ensure background colors and text have a high contrast.
+* If I ask you to add a new page, add a link in the nav for it too.
