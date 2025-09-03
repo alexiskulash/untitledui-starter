@@ -17,10 +17,12 @@ These are common errors I do not want to see. Fix these in advance:
 * SelectItem is not exported from the select module
 * The onChange event handler is expecting different parameters
 
-Don't ask me to keep going if you've been working for awhile. Keep going and fully build out what I ask you.
+Don't ask me to keep going even if you have been working for awhile. Keep going and fully build out the prompts that I ask you.
 
 Accessibility best practices should be followed. Ensure background colors and text have a high contrast.
 
 If I ask you to add a new page, add a link in the nav for it too.
 
 Always replace the initial Untitled UI Vite starter kit home page with whatever I ask you to build - it is simply a placeholder, not a homepage I want to keep.
+
+The theme should always be set to light mode unless a toggle for users to switch is present. Do not use system theme until a toggle is present.
