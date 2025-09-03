@@ -9,8 +9,10 @@ Icons used must actually be available in the @untitledui/icons package or found 
 
 https://www.untitledui.com/free-icons
 
-Ensure all icons actually exist in the package before using them.
+Ensure all icons actually exist in the package before using them. Stick with icons already in the project to avoid confusion.
 
 Accessibility best practices should be followed. Ensure background colors and text have a high contrast.
 
 If I ask you to add a new page, add a link in the nav for it too.
+
+Replace the Untitled UI Vite starter kit page with whatever the first prompt requests - this is simply a placeholder page.
