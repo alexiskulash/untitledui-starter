@@ -3,13 +3,7 @@ This is a Vite app that uses the Untitled UI design system. The Untitled UI desi
 https://www.untitledui.com/react/application-ui
 https://www.untitledui.com/react/integrations/vite
 
-Do a web search to verify how the Untitled UI works.
-
-Icons used must actually be available in the @untitledui/icons package or found here:
-
-https://www.untitledui.com/free-icons
-
-Ensure all icons actually exist in the package before using them. Stick with icons already in the project to avoid confusion.
+Ensure all icons actually exist in the package before using them. Do not allow for import issues with icons - double-check for syntax and import errors related to the wrong icon being used.
 
 Accessibility best practices should be followed. Ensure background colors and text have a high contrast.
 
