@@ -3,7 +3,7 @@ This is a Vite app that uses the Untitled UI design system. The Untitled UI desi
 https://www.untitledui.com/react/application-ui
 https://www.untitledui.com/react/integrations/vite
 
-react-aria Input’s onChange passes value, not event. Update all handlers to use onChange={(value) => ...}.
+When using react-aria: know that react-aria Input’s onChange passes value, not event. Update all handlers to use onChange={(value) => ...} to avoid errors.
 
 Ensure all icons actually exist in the package before using them. This list includes all the verified working icons from the @untitledui/icons package based on the actual codebase usage:
 
@@ -146,10 +146,10 @@ These are common errors I do not want to see. Fix these in advance:
 
 Don't prompt me to keep going even if you have been working for awhile. Keep going until complete and fully build out what I ask you.
 
-Accessibility best practices should be followed. Ensure background colors and text have a high contrast.
+Ensure dark text is not used on a dark background, especially while in dark or system theme.
 
 If I ask you to add a new page, add a link in the nav for it too.
 
-Always replace the initial Untitled UI Vite starter kit home page with whatever I ask you to build - it is simply a placeholder, not a homepage I want to keep.
+Always replace the initial Untitled UI Vite starter kit home page with whatever I ask you to build - it is a placeholder, not a page I want to keep.
 
-The theme should always be set to light mode unless a toggle for users to switch is present. Do not use system or dark theme until a toggle is present.
+The theme should always be set to light mode unless a toggle for users to switch themes is present. Do not use system theme or dark theme until a toggle to switch themes is present in the app.
