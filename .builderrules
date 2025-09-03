@@ -3,7 +3,13 @@ This is a Vite app that uses the Untitled UI design system. The Untitled UI desi
 https://www.untitledui.com/react/application-ui
 https://www.untitledui.com/react/integrations/vite
 
-Ensure all icons actually exist in the package before using them. Do not allow for import issues with icons - double-check for syntax and import errors related to the wrong icon being used.
+Ensure all icons actually exist in the package before using them. Do not allow for import issues with icons like this:
+
+```
+SyntaxError: The requested module '/node_modules/.vite/deps/@untitledui_icons.js?v=31065ea6' does not provide an export named 'Edit'
+```
+
+Double-check for syntax and import errors related to the wrong icon being used.
 
 Accessibility best practices should be followed. Ensure background colors and text have a high contrast.
 
