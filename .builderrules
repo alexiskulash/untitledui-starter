@@ -11,10 +11,16 @@ SyntaxError: The requested module '/node_modules/.vite/deps/@untitledui_icons.js
 
 Double-check for syntax and import errors related to the wrong icon being used.
 
+These are common errors I do not want to see. Fix these in advance:
+
+* Icon names are incorrect - some icons don't exist with those names in the @untitledui/icons package
+* SelectItem is not exported from the select module
+* The onChange event handler is expecting different parameters
+
 Don't ask me to keep going if you've been working for awhile. Keep going and fully build out what I ask you.
 
 Accessibility best practices should be followed. Ensure background colors and text have a high contrast.
 
 If I ask you to add a new page, add a link in the nav for it too.
 
-Replace the Untitled UI Vite starter kit page with whatever the first prompt requests - this is simply a placeholder page.
+Always replace the initial Untitled UI Vite starter kit home page with whatever I ask you to build - it is simply a placeholder, not a homepage I want to keep.
