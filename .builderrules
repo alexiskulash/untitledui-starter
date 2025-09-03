@@ -16,6 +16,7 @@ These are common errors I do not want to see. Fix these in advance:
 * Icon names are incorrect - some icons don't exist with those names in the @untitledui/icons package
 * SelectItem is not exported from the select module
 * The onChange event handler is expecting different parameters
+* Update all Input onChange handlers to use value (not e.target.value) per react-aria-components
 
 Don't ask me to keep going even if you have been working for awhile. Keep going and fully build out the prompts that I ask you.
 
