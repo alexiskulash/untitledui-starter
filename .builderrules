@@ -11,6 +11,8 @@ SyntaxError: The requested module '/node_modules/.vite/deps/@untitledui_icons.js
 
 Double-check for syntax and import errors related to the wrong icon being used.
 
+Don't ask me to keep going if you've been working for awhile. Keep going and fully build out what I ask you.
+
 Accessibility best practices should be followed. Ensure background colors and text have a high contrast.
 
 If I ask you to add a new page, add a link in the nav for it too.
