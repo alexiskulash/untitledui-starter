@@ -3,6 +3,8 @@ This is a Vite app that uses the Untitled UI design system. The Untitled UI desi
 https://www.untitledui.com/react/application-ui
 https://www.untitledui.com/react/integrations/vite
 
+react-aria Input’s onChange passes value, not event. Update all handlers to use onChange={(value) => ...}.
+
 Ensure all icons actually exist in the package before using them. This list includes all the verified working icons from the @untitledui/icons package based on the actual codebase usage:
 
 ```
