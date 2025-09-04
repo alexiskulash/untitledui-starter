@@ -1,52 +1,54 @@
 Ensure all icons actually exist in the package before using them. These are the ONLY icons that should be used:
 
-* ArrowLeft - Navigation back buttons
-* ArrowRight - CTA arrows and navigation
-* Check - Success indicators, checkmarks
-* Eye / EyeOff - Password visibility toggles
-* HomeLine - Home/property related sections
-* CurrencyDollarCircle - All financial input fields and sections
-* MarkerPin01 - Property address input field
-* User01 - Personal information sections
-* Settings01 - Employment information section (substitute for Briefcase)
-* Shield01 - Security/credit check sections
-* Edit01 - Edit buttons throughout review page
-* File01 - Document/file related sections
-* Calendar - Date-related elements
-* Clock - Time/duration indicators
-* BookOpen01 - Documentation links
-* Copy01 - Copy to clipboard functionality
-* Cube01 - Icon resources
-* HelpCircle - Help and info tooltips
-* InfoCircle - Input validation icons
-* ChevronDown - Dropdown indicators
-* ChevronLeft / ChevronRight - Calendar navigation
-* SearchLg - Search inputs and functionality
-* X (aliased as CloseIcon) - Close buttons
-* XClose - Tag close buttons
-* DotsVertical - Menu dropdowns
-* Plus - Add buttons
-* Trash01 - Delete actions
-* UploadCloud02 - File upload areas
-* CheckCircle / XCircle - File upload status
-* AlertCircle - Alert/error states
-* Bell01 - Notifications
-* LifeBuoy01 - Support/help
-* LogOut01 - Sign out functionality
-* Menu02 - Mobile menu toggle
-* Share04 - Share functionality
-* ChevronSelectorVertical - Selection
+* ArrowLeft
+* ArrowRight
+* Check
+* Eye / EyeOff
+* HomeLine
+* CurrencyDollarCircle
+* MarkerPin01
+* User01
+* Settings01
+* Shield01
+* Edit01
+* File01
+* Calendar
+* Clock
+* BookOpen01
+* Copy01
+* Cube01
+* HelpCircle
+* InfoCircle
+* ChevronDown
+* ChevronLeft / ChevronRight
+* SearchLg
+* X (aliased as CloseIcon)
+* XClose
+* DotsVertical
+* Plus
+* Trash01
+* UploadCloud02
+* CheckCircle / XCircle
+* AlertCircle
+* Bell01
+* LifeBuoy01
+* LogOut01
+* Menu02
+* Share04
+* ChevronSelectorVertical
+* Mail01
 
-Do NOT use any of the following icons - they are broken and will create syntax errors:
+Do NOT use any of the following icons - use the replacement mentioned instead:
 
-* DollarSign - Use CurrencyDollarCircle instead
-* Home - Use HomeLine instead
-* MapPin - Use MarkerPin01 instead
-* User - Use User01 instead
-* Briefcase - Use Settings01 or another appropriate numbered version
-* Shield - Use Shield01 instead
-* Edit - Use Edit01 instead
-* FileText - Use File01 instead
+* DollarSign - use CurrencyDollarCircle instead
+* Home - use HomeLine instead
+* MapPin - use MarkerPin01 instead
+* User - use User01 instead
+* Briefcase - use Settings01 or another appropriate numbered version
+* Shield - use Shield01 instead
+* Edit - use Edit01 instead
+* FileText - use File01 instead
+* Mail - use Mail01 instead
 
 When adding new icons, avoid these naming patterns that don't exist:
 
