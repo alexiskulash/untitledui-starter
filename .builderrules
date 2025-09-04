@@ -1,3 +1,5 @@
+react-aria Input’s onChange passes a string value, not an event. Make sure all Inputs use onChange={(value) => ...} across steps, and ensure Input forwards props to InputBase.
+
 Ensure all icons actually exist in the package before using them. These are the ONLY icons that should be used:
 
 * ArrowLeft
