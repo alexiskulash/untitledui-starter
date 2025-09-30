@@ -2,7 +2,9 @@
   "compilerOptions": {
     "baseUrl": ".",
     "paths": {
-      "@/*": ["./src/*"]
+      "@/*": ["./src/*"],
+      "@untitledui/react": ["./src/components/index.ts"],
+      "@untitledui/react/*": ["./src/components/*"]
     }
   },
   "files": [],
